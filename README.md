@@ -1,5 +1,4 @@
-## Hi there 👋
-
+<img src="./Trainee.gif" alt="The Unlimited" width="180"/>
 <!--
 **justTrainee/justTrainee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
