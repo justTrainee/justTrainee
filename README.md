@@ -1,7 +1,6 @@
 <img src="./Trainee.gif" alt="The Unlimited" width=100%>
 
-[https://img.shields.io/badge/<MESSAGE>-<COLOR>](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
-
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5FB)
 <!--
 **justTrainee/justTrainee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
